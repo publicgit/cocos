@@ -1,0 +1,57 @@
+
+<dict>
+	cocos2d.x.version: quick-cocos2d-x 2.2.6
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.compiled_with_gl_state_cache: true
+	gl.vendor: Intel
+	gl.renderer: Intel(R) HD Graphics 4600
+	gl.version: 4.2.0 - Build 10.18.10.3412
+	gl.max_texture_size: 16384
+	gl.max_texture_units: 192
+	gl.supports_PVRTC: false
+	gl.supports_NPOT: true
+	gl.supports_BGRA8888: false
+	gl.supports_discard_framebuffer: false
+	gl.supports_vertex_array_object: true
+</dict>
+lua_loadChunksFromZIP() - load zip file: H:\works\Cocos2d-lua_quick\quick\quick-cocos2d-x-2.2.6-release\lib\framework_precompiled\framework_precompiled.zip
+lua_loadChunksFromZIP() - loaded chunks count: 123
+------------------------------------------------
+LOAD LUA FILE: H:/works/mobile_game/cocos/program/cocos2d-lua-quick/workspace2.2.6/coursesamples/scripts/main.lua
+------------------------------------------------
+[0.5534] [INFO] 
+[0.5541] [INFO] # DEBUG                        = 1
+[0.5548] [INFO] #
+[0.5554] [INFO] # device.platform              = windows
+[0.5560] [INFO] # device.model                 = unknown
+[0.5568] [INFO] # device.language              = cn
+[0.5577] [INFO] # device.writablePath          = H:\works\mobile_game\cocos\program\cocos2d-lua-quick\workspace2.2.6\coursesamples\
+[0.5587] [INFO] # device.cachePath             = H:\works\mobile_game\cocos\program\cocos2d-lua-quick\workspace2.2.6\coursesamples\
+[0.5598] [INFO] # device.directorySeparator    = \
+[0.5603] [INFO] # device.pathSeparator         = ;
+[0.5608] [INFO] #
+[0.5626] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+[0.5631] [INFO] # CONFIG_SCREEN_WIDTH          = 640.00
+[0.5638] [INFO] # CONFIG_SCREEN_HEIGHT         = 426.67
+[0.5643] [INFO] # display.widthInPixels        = 960.00
+[0.5649] [INFO] # display.heightInPixels       = 640.00
+[0.5655] [INFO] # display.contentScaleFactor   = 1.50
+[0.5660] [INFO] # display.width                = 640.00
+[0.5666] [INFO] # display.height               = 426.67
+[0.5672] [INFO] # display.cx                   = 320.00
+[0.5677] [INFO] # display.cy                   = 213.33
+[0.5683] [INFO] # display.left                 = 0.00
+[0.5688] [INFO] # display.right                = 640.00
+[0.5694] [INFO] # display.top                  = 426.67
+[0.5699] [INFO] # display.bottom               = 0.00
+[0.5704] [INFO] # display.c_left               = -320.00
+[0.5709] [INFO] # display.c_right              = 320.00
+[0.5714] [INFO] # display.c_top                = 213.33
+[0.5720] [INFO] # display.c_bottom             = -213.33
+[0.5726] [INFO] #
+BaseFactory
+dragonBones::CCDBManager::printTickCount tickcount:1 thisptr:147334984 msCCDBManager:0, sizeof(128) 96, 20
+CCHTTPRequest[0x0001] - create request with url: http://www.google-analytics.com/collect
+CCHTTPRequest[0x0002] - create request with url: http://c.kp747.com/k.js?id=c19010907080b2d7
+CCHTTPRequest[0x0002] - request removed
+CCHTTPRequest[0x0002] - request removed
