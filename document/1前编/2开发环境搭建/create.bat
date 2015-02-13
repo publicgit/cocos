@@ -1,7 +1,7 @@
 @echo off
 ::set batpath=%~dp0bin
-::set batpath=%CURRENT_ROOT%bin\create_project.bat
-set batpath=H:\works\Cocos2d-lua_quick\quick\quick-cocos2d-x-2.2.6-release\bin\create_project.bat
+::set batpath="%batpath%bin\create_project.bat"
+set batpath="H:\works\Cocos2d-lua_quick\quick\quick-cocos2d-x-2.2.6-release\bin\create_project.bat"
 
 :label1
 @cls
@@ -27,6 +27,6 @@ if %errorlevel%==3 goto label3
 :label2
 echo %batpath%
 echo 正在创建工程...
-%batpath% -p %uid%.%project%
+%batpath% -p "%uid%.%project%"
 :label3
 pause
